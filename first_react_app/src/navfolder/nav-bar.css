@@ -1,0 +1,22 @@
+#nav-bar{
+    display: flex;
+    background-color: rgb(62, 67, 69);
+    color: white;
+    justify-content: space-between;
+}
+
+#logo{
+    margin-left: 20px;
+}
+
+#nav-eles-box {
+display: flex;
+justify-content: flex-end;
+list-style-type: none;
+
+}
+
+#nav-ele{
+    margin-right: 50px;
+    
+}
